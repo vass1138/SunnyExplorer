@@ -4,8 +4,8 @@
 
 Empirical data from 14-panel array (configured as two strips) located at Wantirna, Victoria, Australia.
 
-- Latitude =  -37.82 $\circ$
-- Longtitude = 145.19 $\circ$
+- Latitude =  -37.82 &deg;
+- Longtitude = 145.19 &deg;
 
 ## Description
 
