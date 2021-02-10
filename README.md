@@ -4,8 +4,8 @@
 
 Empirical data from 14-panel array (configured as two strips) located at Wantirna, Victoria, Australia.
 
-- Latitude =  -37.82 &deg;
-- Longtitude = 145.19 &deg;
+- Latitude =  -37.8 &deg;
+- Longtitude = 145.0 &deg;
 
 ## Description
 
@@ -24,4 +24,4 @@ Commercial online calculator:\
 https://solarcalculator.com.au/solar-panels/melbourne/
 
 Python module to calculate incident radiation by Earth location:\
-pysolar.org
+https://pysolar.org
